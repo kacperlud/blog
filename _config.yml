@@ -16,7 +16,7 @@ timezone: Europe/Berlin
 
 title: Kacper's blog
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline:  My blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   My blog.
@@ -64,7 +64,7 @@ goatcounter:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: [light | dark]
+theme_mode: #[light | dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
